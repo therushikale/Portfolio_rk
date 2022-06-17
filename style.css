@@ -115,7 +115,7 @@
     max-width: 996px;
   }
   .splash {
-    background:url("/img/back3.jpg") no-repeat fixed center bottom;
+    background:url("img/back3.jpg") no-repeat fixed center bottom;
       background-size: cover;
       color: #fff;
   }
