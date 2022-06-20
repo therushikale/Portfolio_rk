@@ -97,6 +97,11 @@
   .navbar-brand {
     padding:10px 15px!important;
   }
+ * {
+    box-sizing: border-box;
+    overflow-x: hidden;
+    
+  }
   a.navbar-brand .fa-globe
   {
     font-size: 30px;
